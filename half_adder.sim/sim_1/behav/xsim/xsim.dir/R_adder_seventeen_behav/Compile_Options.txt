@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "R_adder_seventeen_behav" "xil_defaultlib.R_adder_seventeen" "xil_defaultlib.glbl" -log "elaborate.log" 

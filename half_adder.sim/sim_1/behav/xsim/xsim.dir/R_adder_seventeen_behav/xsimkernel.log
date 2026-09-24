@@ -1,0 +1,4 @@
+Running: xsim.dir/R_adder_seventeen_behav/xsimk.exe -simmode gui -wdb R_adder_seventeen_behav.wdb -simrunnum 0 -socket 57870
+Design successfully loaded
+Design Loading Memory Usage: 9480 KB (Peak: 9480 KB)
+Design Loading CPU Usage: 0 ms
